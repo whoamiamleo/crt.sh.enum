@@ -62,7 +62,7 @@ Most crt.sh tools hit the JSON HTTP endpoint, which is rate-limited, paginated, 
 **Requires Python 3.8+**
 
 ```bash
-git clone https://github.com/leovng/crt.sh.enum.git
+git clone https://github.com/whoamiamleo/crt.sh.enum.git
 cd crt.sh.enum
 pip install -r requirements.txt
 ```
@@ -150,14 +150,14 @@ www.example.com
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check the [issues](https://github.com/leovng/crt.sh.enum/issues) page or submit a pull request.
+Contributions, issues, and feature requests are welcome. Feel free to check the [issues](https://github.com/whoamiamleo/crt.sh.enum/issues) page or submit a pull request.
 
 ## Attribution
 
 If you use crt.sh.enum in a project or research, a mention or link back to this repository is appreciated.
 
 - Author: Leopold von Niebelschuetz-Godlewski
-- Repository: [https://github.com/leovng/crt.sh.enum](https://github.com/leovng/crt.sh.enum)
+- Repository: [https://github.com/whoamiamleo/crt.sh.enum](https://github.com/whoamiamleo/crt.sh.enum)
 - License: MIT
 
 ---
